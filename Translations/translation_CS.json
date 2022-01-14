@@ -56,8 +56,8 @@
   },
   "menuGroups": {
     "PowerMenu": {
-      "text2": ["Power", "settings"],
-      "desc": "Power settings"
+      "text2": ["Nastavení", "napájení"],
+      "desc": "Nastavení napájení"
     },
     "SolderingMenu": {
       "text2": ["Pájecí", "nastavení"],
@@ -115,7 +115,7 @@
     },
     "AutoStart": {
       "text2": ["Automatický", "start"],
-      "desc": "Při startu ihned nahřát hrot? (O=Pryč | P=Pájení | S=Spát | M=Spát teplota místnosti)"
+      "desc": "Při startu ihned nahřát hrot? (O=Ne | P=Pájecí t. | S=Spát | M=Spát teplota místnosti)"
     },
     "CooldownBlink": {
       "text2": ["Blikáni při", "chladnutí"],
@@ -170,12 +170,12 @@
       "desc": "Puls pro udržení zařízení v chodu (kvůli power bankám)."
     },
     "HallEffSensitivity": {
-      "text2": ["Hall Eff", "Sensitivity"],
-      "desc": "Sensitivity of the Hall effect sensor in detecting sleep (O=Off | L=Low | M=Medium | H=High)"
+      "text2": ["Hall Eff", "citlivost"],
+      "desc": "Citlivost Hallova senzoru pro přechod do r. spánku (O=Vyp. | L=Malá | M=Střední | H=Velká)"
     },
     "LockingMode": {
-      "text2": ["Allow buttons", "locking"],
-      "desc": "When soldering, long press on both buttons lock them (D=Disable | B=Boost only | F=Full locking)"
+      "text2": ["Povolit", "zamknutí"],
+      "desc": "Uzamknutí stisknutím obou tlačítek při pájení (D=Vyp. | B=pouze Boost | F=zamknout)"
     },
     "MinVolCell": {
       "text2": ["Minimum", "voltage"],
